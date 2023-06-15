@@ -1,0 +1,23 @@
+﻿  CShape.cpp
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\CShape.cpp(450,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\CShape.cpp(451,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\CShape.cpp(452,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\CShape.cpp(453,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\CShape.cpp(454,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\CShape.cpp(455,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\CShape.cpp(456,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\CShape.cpp(457,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\CShape.cpp(479,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\CShape.cpp(715,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\CShape.cpp(716,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\CShape.cpp(716,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\CShape.cpp(769,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  My_App.cpp
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\My_App.cpp(177,6): warning C4101: 'hdc': unreferenced local variable
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\My_App.cpp(176,14): warning C4101: 'ps': unreferenced local variable
+C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\My_App\My_App.cpp(175,6): warning C4101: 'wmId': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 162 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  My_App.vcxproj -> C:\Users\84981\Desktop\nn\APP_OOP\My_App\0106_DONE\x64\Release\My_App.exe
